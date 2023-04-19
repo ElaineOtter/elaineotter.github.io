@@ -179,7 +179,21 @@ a {
 	margin-left: -50vw;
 	right: auto;
 }
-
+	#accordion {
+	
+	display: none;
+		}
+	
+		#ctl00_eTAMContent_lblMessage .control-label {	
+			display: none;
+		}
+		#ctl00_eTAMContent_lblDescription, .container > h3 > b > .control-label {	
+			display: none;
+		}
+		
+		#ctl00_eTAMContent_lblMessage, #ctl00_eTAMContent_lblChoose {	
+			display: none;
+		}
 body.is-instant #main, body.is-instant #main > .inner > *,body.is-instant #main > .inner > section > *  {
 	transition: none !important;
 }
