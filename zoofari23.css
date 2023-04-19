@@ -24,7 +24,7 @@ body:before {
 	transform: scale(1);
 	width: 100vw;
 	z-index: 0;
-	background-image: linear-gradient(to top, rgba(76,76,77,0.58), rgba(76,76,77,0.58)), url('images/bg.jpg');
+	background-image: linear-gradient(to top, rgba(76,76,77,0.58), rgba(76,76,77,0.58)), url('https://elaineotter.github.io/zoofari_bg.jpg');
 	background-position: 0% 0%, center;
 	background-repeat: repeat, repeat-y;
 	background-size: auto, cover;
