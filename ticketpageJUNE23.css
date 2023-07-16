@@ -118,7 +118,7 @@ a {
 	flex-shrink: 0;
 	justify-content: center;
 	max-width: 100%;
-	position: relative;
+	position: inherit;
 	text-align: var(--alignment);
 	z-index: 1;
 }
