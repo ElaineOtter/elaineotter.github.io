@@ -99,7 +99,7 @@ a {
 	justify-content: center;
 	min-height: var(--viewport-height);
 	overflow: hidden;
-	position: relative;
+	position: inherit;
 	z-index: 2;
 }
 
